@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonicselo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonicselo_Idle0000" x="0" y="0" width="943" height="439" frameX="0" frameY="-5" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0001" x="943" y="0" width="943" height="439" frameX="0" frameY="-4" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0002" x="1886" y="0" width="942" height="439" frameX="-1" frameY="-3" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0003" x="2828" y="0" width="942" height="439" frameX="-1" frameY="-3" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0004" x="0" y="439" width="942" height="439" frameX="-1" frameY="-2" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0005" x="942" y="439" width="942" height="439" frameX="-2" frameY="-1" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0006" x="1884" y="439" width="941" height="439" frameX="-2" frameY="0" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0007" x="2826" y="439" width="941" height="439" frameX="-3" frameY="0" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0008" x="2826" y="439" width="941" height="439" frameX="-3" frameY="0" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0009" x="2826" y="439" width="941" height="439" frameX="-3" frameY="0" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0010" x="2826" y="439" width="941" height="439" frameX="-3" frameY="0" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0011" x="2826" y="439" width="941" height="439" frameX="-3" frameY="0" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0012" x="2826" y="439" width="941" height="439" frameX="-3" frameY="0" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0013" x="2826" y="439" width="941" height="439" frameX="-3" frameY="0" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_Idle0014" x="2826" y="439" width="941" height="439" frameX="-3" frameY="0" frameWidth="944" frameHeight="444"/>
+	<SubTexture name="Sonicselo_down0000" x="0" y="879" width="954" height="432" frameX="0" frameY="-1" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_down0001" x="954" y="879" width="952" height="431" frameX="-0" frameY="-1" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_down0002" x="1906" y="879" width="950" height="430" frameX="-1" frameY="-0" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_down0003" x="2857" y="879" width="948" height="428" frameX="-1" frameY="-0" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_down0004" x="0" y="1311" width="946" height="427" frameX="-2" frameY="0" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_down0005" x="0" y="1311" width="946" height="427" frameX="-2" frameY="0" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_down0006" x="0" y="1311" width="946" height="427" frameX="-2" frameY="0" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_down0007" x="0" y="1311" width="946" height="427" frameX="-2" frameY="0" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_down0008" x="0" y="1311" width="946" height="427" frameX="-2" frameY="0" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_down0009" x="0" y="1311" width="946" height="427" frameX="-2" frameY="0" frameWidth="954" frameHeight="433"/>
+	<SubTexture name="Sonicselo_left0000" x="946" y="1311" width="946" height="434" frameX="0" frameY="-4" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_left0001" x="1892" y="1311" width="945" height="434" frameX="0" frameY="-3" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_left0002" x="2838" y="1311" width="945" height="434" frameX="-1" frameY="-2" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_left0003" x="0" y="1746" width="944" height="435" frameX="-1" frameY="-1" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_left0004" x="944" y="1746" width="944" height="435" frameX="-2" frameY="0" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_left0005" x="944" y="1746" width="944" height="435" frameX="-2" frameY="0" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_left0006" x="944" y="1746" width="944" height="435" frameX="-2" frameY="0" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_left0007" x="944" y="1746" width="944" height="435" frameX="-2" frameY="0" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_left0008" x="944" y="1746" width="944" height="435" frameX="-2" frameY="0" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_left0009" x="944" y="1746" width="944" height="435" frameX="-2" frameY="0" frameWidth="946" frameHeight="438"/>
+	<SubTexture name="Sonicselo_right0000" x="1888" y="1746" width="960" height="431" frameX="0" frameY="-2" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_right0001" x="2849" y="1746" width="958" height="431" frameX="-1" frameY="-1" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_right0002" x="0" y="2181" width="956" height="432" frameX="-1" frameY="-1" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_right0003" x="956" y="2181" width="956" height="432" frameX="-2" frameY="-0" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_right0004" x="1909" y="2181" width="951" height="432" frameX="-3" frameY="0" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_right0005" x="1909" y="2181" width="951" height="432" frameX="-3" frameY="0" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_right0006" x="1909" y="2181" width="951" height="432" frameX="-3" frameY="0" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_right0007" x="1909" y="2181" width="951" height="432" frameX="-3" frameY="0" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_right0008" x="1909" y="2181" width="951" height="432" frameX="-3" frameY="0" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_right0009" x="1909" y="2181" width="951" height="432" frameX="-3" frameY="0" frameWidth="960" frameHeight="433"/>
+	<SubTexture name="Sonicselo_up0000" x="2860" y="2181" width="939" height="443" frameX="-2" frameY="0" frameWidth="941" frameHeight="443"/>
+	<SubTexture name="Sonicselo_up0001" x="0" y="2624" width="939" height="442" frameX="-1" frameY="-1" frameWidth="941" frameHeight="443"/>
+	<SubTexture name="Sonicselo_up0002" x="939" y="2624" width="941" height="441" frameX="-0" frameY="-2" frameWidth="941" frameHeight="443"/>
+	<SubTexture name="Sonicselo_up0003" x="1880" y="2624" width="941" height="440" frameX="0" frameY="-3" frameWidth="941" frameHeight="443"/>
+	<SubTexture name="Sonicselo_up0004" x="2821" y="2624" width="941" height="439" frameX="0" frameY="-4" frameWidth="941" frameHeight="443"/>
+	<SubTexture name="Sonicselo_up0005" x="2821" y="2624" width="941" height="439" frameX="0" frameY="-4" frameWidth="941" frameHeight="443"/>
+	<SubTexture name="Sonicselo_up0006" x="2821" y="2624" width="941" height="439" frameX="0" frameY="-4" frameWidth="941" frameHeight="443"/>
+	<SubTexture name="Sonicselo_up0007" x="2821" y="2624" width="941" height="439" frameX="0" frameY="-4" frameWidth="941" frameHeight="443"/>
+	<SubTexture name="Sonicselo_up0008" x="2821" y="2624" width="941" height="439" frameX="0" frameY="-4" frameWidth="941" frameHeight="443"/>
+	<SubTexture name="Sonicselo_up0009" x="2821" y="2624" width="941" height="439" frameX="0" frameY="-4" frameWidth="941" frameHeight="443"/>
+</TextureAtlas>
